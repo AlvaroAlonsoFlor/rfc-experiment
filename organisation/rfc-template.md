@@ -2,6 +2,7 @@
 author: Write your name here
 status: draft/considering/trial/agreed
 visibility: public/private
+type: rfc/adr/bcp/fyi
 ---
 
 ## Background
